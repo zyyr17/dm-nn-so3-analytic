@@ -1,7 +1,0 @@
-Use:
-
-ALL NEEDED PYTHON PACKAGES ARE CONDENSED IN THE .yml FILE
-
-TO READY-TO-GO CONDA ENVIRONMENT:
-
-conda env create -f env.yml --name dm
